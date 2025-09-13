@@ -5,4 +5,5 @@ int main()
     scanf("%d%d1", &a, &b);
     printf("%d", a + b);
     return 0;
+    //O-S-T: One Small sTart 
 }

@@ -5,7 +5,7 @@ int main()
 {
     ios::sync_with_stdio(false);
     cin.tie(nullptr);
-    int n, m, a[100005], x;
+    int n, m, a[1000005], x;
     cin >> n >> m;
     memset(a, 0, sizeof(a));
     for (int i = 1; i <= n; i++)

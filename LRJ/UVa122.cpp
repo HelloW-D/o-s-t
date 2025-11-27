@@ -1,3 +1,5 @@
+//¶ş²æÊ÷µÄBFS±éÀú
+
 #define _CRT_SECURE_NO_WARNINGS
 
 #include <iostream>

@@ -1,3 +1,5 @@
+//简单的模拟题，模拟树的遍历过程
+
 #include <iostream>
 #include <cstdlib>
 #include <cstdio>
